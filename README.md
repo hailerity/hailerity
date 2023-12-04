@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Hai Le - @hailerity
-- 👀 I’m interested in Ruby on Rails
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I code, I run, I travel.
 
 <!---
 hailerity/hailerity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
