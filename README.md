@@ -1,4 +1,4 @@
-I code, I run, I travel.
+I code 👨‍💻 I run 🏃 I think 🧘‍♂️
 
 <!---
 hailerity/hailerity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
